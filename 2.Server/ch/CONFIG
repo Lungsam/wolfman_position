@@ -3,7 +3,7 @@ MAX_LEVEL
 
 // add after
 
-wolfman_position = 1
+WOLFMAN_POSITION = 1
 
 // info
 0 to disable map wolfman
