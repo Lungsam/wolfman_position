@@ -91,8 +91,3 @@ bool NewPlayerTable2(TPlayerTable * table, const char * name, BYTE race, BYTE sh
 	table->x 	= CREATE_START_X(bEmpire) + number(-300, 300);
 	table->y 	= CREATE_START_Y(bEmpire) + number(-300, 300);
 #endif
-
-#else
-	table->x 	= CREATE_START_X(bEmpire) + number(-300, 300);
-	table->y 	= CREATE_START_Y(bEmpire) + number(-300, 300);
-#endif
